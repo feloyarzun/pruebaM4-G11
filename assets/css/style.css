@@ -1,0 +1,23 @@
+.card {
+  margin: 20px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.card-header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 15px;
+}
+
+.card-body {
+  padding: 15px;
+}
+
+.img-fluid {
+  border-radius: 70%;
+}
+
+.nav-img {
+  border-radius: 70%;
+}
